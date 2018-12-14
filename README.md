@@ -1,0 +1,1 @@
+You can create a zip from the A4 folder, and run it through Netbeans. 
